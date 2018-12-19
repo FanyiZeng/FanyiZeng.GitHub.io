@@ -80,11 +80,17 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: rsync
-  host: 18.222.198.243
-  user: hexo
-  root: /home/hexo/SDA_BLOG
-  port: 22
-  delete: true
-  verbose: true
-  ignore_errors: false
+  type: git
+  repo: git@github.com:FanyiZeng/FanyiZeng.GitHub.io.git
+  branch: master
+  message: update_Ewan
+
+# deploy:
+#   type: rsync
+#   host: 18.222.198.243
+#   user: hexo
+#   root: /home/hexo/SDA_BLOG
+#   port: 22
+#   delete: true
+#   verbose: true
+#   ignore_errors: false
