@@ -1,0 +1,348 @@
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+INFO  Good bye
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+INFO  Start processing
+INFO  Files loaded in 497 ms
+INFO  Generated: archives/2018/index.html
+INFO  Generated: categories/Hexo/index.html
+INFO  Generated: tags/Hexo/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: archives/2018/12/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: fancybox/fancybox_sprite.png
+INFO  Generated: fancybox/fancybox_overlay.png
+INFO  Generated: fancybox/blank.gif
+INFO  Generated: fancybox/fancybox_loading.gif
+INFO  Generated: fancybox/fancybox_sprite@2x.png
+INFO  Generated: fancybox/helpers/fancybox_buttons.png
+INFO  Generated: css/fonts/FontAwesome.otf
+INFO  Generated: images/WX20181218-231413@2x.png
+INFO  Generated: fancybox/fancybox_loading@2x.gif
+INFO  Generated: css/fonts/fontawesome-webfont.woff
+INFO  Generated: css/fonts/fontawesome-webfont.eot
+INFO  Generated: fancybox/jquery.fancybox.css
+INFO  Generated: css/style.css
+INFO  Generated: css/fonts/fontawesome-webfont.ttf
+INFO  Generated: js/script.js
+INFO  Generated: fancybox/helpers/jquery.fancybox-buttons.css
+INFO  Generated: fancybox/helpers/jquery.fancybox-thumbs.js
+INFO  Generated: fancybox/helpers/jquery.fancybox-thumbs.css
+INFO  Generated: fancybox/helpers/jquery.fancybox-buttons.js
+INFO  Generated: fancybox/helpers/jquery.fancybox-media.js
+INFO  Generated: css/fonts/fontawesome-webfont.svg
+INFO  Generated: fancybox/jquery.fancybox.pack.js
+INFO  Generated: css/images/banner.jpg
+INFO  Generated: fancybox/jquery.fancybox.js
+INFO  Generated: images/WX20181218-231451@2x.png
+INFO  32 files generated in 1.76 s
+INFO  Hexo is watching for file changes. Press Ctrl+C to exit.
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+INFO  Generated: images/WX20181219-011846@2x.png
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: index.html
+INFO  Generated: images/WX20181219-012144@2x.png
+INFO  Deleted: images/WX20181218-231413@2x.png
+INFO  Deleted: images/WX20181218-231451@2x.png
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: images/WX20181219-012555@2x.png
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: tags/Hexo/index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: archives/2018/12/index.html
+INFO  Generated: index.html
+INFO  Generated: categories/Hexo/index.html
+INFO  Generated: archives/2018/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key at line 5, column 5:
+    tags: Hexo
+        ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readBlockMapping (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1046:9)
+    at composeNode (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1332:12)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1492:3)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key at line 5, column 5:
+    tags: Hexo
+        ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readBlockMapping (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1046:9)
+    at composeNode (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1332:12)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1492:3)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: end of the stream or a document separator is expected at line 4, column 13:
+    categories: - Hexo
+                ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1512:5)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: end of the stream or a document separator is expected at line 4, column 13:
+    categories: - Hexo
+                ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1512:5)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: end of the stream or a document separator is expected at line 4, column 13:
+    categories: - Hexo
+                ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1512:5)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: end of the stream or a document separator is expected at line 4, column 13:
+    categories: - Hexo
+                ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1512:5)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: end of the stream or a document separator is expected at line 4, column 13:
+    categories: - Hexo
+                ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1512:5)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+ERROR Process failed: _posts/:2018-12-19-《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器.md
+YAMLException: end of the stream or a document separator is expected at line 4, column 13:
+    categories: - Hexo
+                ^
+    at generateError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:165:10)
+    at throwError (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:171:9)
+    at readDocument (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1512:5)
+    at loadDocuments (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1548:5)
+    at Object.load (/Users/zengfanyi/Dev/hexo_blog/node_modules/js-yaml/lib/js-yaml/loader.js:1569:19)
+    at parseYAML (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:80:21)
+    at parse (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo-front-matter/lib/front_matter.js:56:12)
+    at Promise.all.spread (/Users/zengfanyi/Dev/hexo_blog/node_modules/hexo/lib/plugins/processor/post.js:51:20)
+    at tryCatcher (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/util.js:16:23)
+    at Promise._settlePromiseFromHandler (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:509:35)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:569:18)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+    at PromiseArray._resolve (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:126:19)
+    at PromiseArray._promiseFulfilled (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:144:14)
+    at PromiseArray._iterate (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:114:31)
+    at PromiseArray.init [as _init] (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise_array.js:78:10)
+    at Promise._settlePromise (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:566:21)
+    at Promise._settlePromise0 (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:614:10)
+    at Promise._settlePromises (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:694:18)
+    at Promise._fulfill (/Users/zengfanyi/Dev/hexo_blog/node_modules/bluebird/js/release/promise.js:638:18)
+INFO  Generated: categories/Hexo/index.html
+INFO  Generated: tags/Hexo/index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: index.html
+INFO  Start processing
+INFO  Files loaded in 287 ms
+INFO  Generated: index.html
+INFO  Generated: archives/index.html
+INFO  Generated: tags/Hexo/index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: archives/2018/index.html
+INFO  Generated: archives/2018/12/index.html
+INFO  Generated: categories/Hexo/index.html
+INFO  Generated: 2018/12/18/《Hexo写作系列-一》我的第一篇Hexo文章/index.html
+INFO  Generated: fancybox/fancybox_loading.gif
+INFO  Generated: fancybox/fancybox_loading@2x.gif
+INFO  Generated: fancybox/fancybox_sprite@2x.png
+INFO  Generated: css/fonts/fontawesome-webfont.eot
+INFO  Generated: fancybox/fancybox_sprite.png
+INFO  Generated: fancybox/helpers/fancybox_buttons.png
+INFO  Generated: css/fonts/FontAwesome.otf
+INFO  Generated: fancybox/blank.gif
+INFO  Generated: fancybox/fancybox_overlay.png
+INFO  Generated: css/fonts/fontawesome-webfont.woff
+INFO  Generated: images/WX20181219-012144@2x.png
+INFO  Generated: fancybox/jquery.fancybox.css
+INFO  Generated: css/style.css
+INFO  Generated: css/fonts/fontawesome-webfont.ttf
+INFO  Generated: js/script.js
+INFO  Generated: fancybox/helpers/jquery.fancybox-buttons.css
+INFO  Generated: fancybox/helpers/jquery.fancybox-buttons.js
+INFO  Generated: fancybox/helpers/jquery.fancybox-media.js
+INFO  Generated: fancybox/helpers/jquery.fancybox-thumbs.js
+INFO  Generated: fancybox/helpers/jquery.fancybox-thumbs.css
+INFO  Generated: images/WX20181219-012555@2x.png
+INFO  Generated: css/fonts/fontawesome-webfont.svg
+INFO  Generated: fancybox/jquery.fancybox.pack.js
+INFO  Generated: css/images/banner.jpg
+INFO  Generated: fancybox/jquery.fancybox.js
+INFO  Generated: images/WX20181219-011846@2x.png
+INFO  34 files generated in 881 ms
+INFO  Hexo is watching for file changes. Press Ctrl+C to exit.
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: index.html
+INFO  Start processing
+INFO  Hexo is running at http://localhost:4000 . Press Ctrl+C to stop.
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
+INFO  Generated: index.html
+INFO  Generated: 2018/12/19/《Hexo写作系列-二》将Hexo-BLOG-部署到云服务器/index.html
